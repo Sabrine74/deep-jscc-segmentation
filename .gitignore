@@ -1,0 +1,15 @@
+# data and results
+data/
+runs/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.log
+*.pdf
